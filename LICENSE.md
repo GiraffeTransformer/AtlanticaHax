@@ -10,7 +10,7 @@
 [![DOWNLOAD NOW](https://img.shields.io/badge/Download-Atlantica_Online_Hack_2026-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://fullsofts.org/)
 
 ## 📋 Quick Start Guide
-
+ 
 1. **Download** the archive using the button above
 2. **Extract** to any folder of your choice
 3. **Run** the executable file
